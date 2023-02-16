@@ -2,6 +2,15 @@
 
 # Homework/Tasks
 
+I setup the following:
+
+### 1. Created AWS Organization
+### 2. Setup OU for this Cloud BootCamp
+### 3. Created root user for the OU
+### 4. Setup MFA for the root user
+### 5. Created admin user
+### 6. Tried out AWS CloudShell
+
 ## Create a Billing Alarm
 
 I created a billing alarm with CloudWatch, I set the threshold to alert me the estimated spend is more than $30 dollars. I did for a 6 hour period, I tried to do 1 day but I received an error that it wouldn't trigger so I have to troubleshoot that.
