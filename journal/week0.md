@@ -13,9 +13,9 @@ I created a billing alarm with CloudWatch, I set the threshold to alert me the e
 
 ## Generate AWS Credentials
 
-I setup AWS Organizations so I could have separate OU for this bootcamp, and also created a user account for the bootcamp
+I setup AWS Organizations so I could have separate OU for this bootcamp, and also created a user account for the bootcamp. I used the + suffix trick to create the account but still have it go to an existing email address that I already have instead of creating a whole new email address.
 
-
+<img width="1018" alt="Screenshot 2023-02-16 at 2 04 51 PM" src="https://user-images.githubusercontent.com/37819313/219463729-f9ae6478-6565-41c2-a173-03285e03a30b.png">
 
 
 ## Create a Budget
