@@ -21,6 +21,14 @@ I setup AWS Organizations so I could have separate OU for this bootcamp, and als
 
 <img width="1018" alt="Screenshot 2023-02-16 at 2 04 51 PM" src="https://user-images.githubusercontent.com/37819313/219463729-f9ae6478-6565-41c2-a173-03285e03a30b.png">
 
+I also created an IAM user under this organization so I wouldn't be using the root user account for cli access, I generated credentials for the account
+
+<img width="609" alt="Screenshot 2023-02-16 at 2 53 37 PM" src="https://user-images.githubusercontent.com/37819313/219472753-4eff7ae3-837d-4cb7-9e29-74e2f289ef81.png">
+
+<img width="606" alt="Screenshot 2023-02-16 at 2 53 27 PM" src="https://user-images.githubusercontent.com/37819313/219472803-e996a5a4-382b-4d98-9648-d93047e4a7ad.png">
+
+
+
 ## Create a Budget
 
 I have setup my budget for my AWS user account I have designated that I will be using for the bootcamp. For now I have setup $30 as my intial budget, not quite sure how much setting up everything at the end will cost but will adjust as needed.
