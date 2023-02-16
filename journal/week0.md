@@ -9,14 +9,17 @@ I created a billing alarm with CloudWatch, I set the threshold to alert me the e
 
 <img width="1284" alt="Screenshot 2023-02-16 at 2 01 40 PM" src="https://user-images.githubusercontent.com/37819313/219462342-e1e6e550-241a-478a-ac16-ec12aae8ffc5.png">
 
+## Create an admin user
 
+I created an admin user for the purposes of the assignment to demonstrate my proficiency with it.
+
+<img width="1003" alt="Screenshot 2023-02-16 at 2 29 22 PM" src="https://user-images.githubusercontent.com/37819313/219468018-ef19240d-f0f7-43c4-91d2-7b543bcc1106.png">
 
 ## Generate AWS Credentials
 
 I setup AWS Organizations so I could have separate OU for this bootcamp, and also created a user account for the bootcamp. I used the + suffix trick to create the account but still have it go to an existing email address that I already have instead of creating a whole new email address.
 
 <img width="1018" alt="Screenshot 2023-02-16 at 2 04 51 PM" src="https://user-images.githubusercontent.com/37819313/219463729-f9ae6478-6565-41c2-a173-03285e03a30b.png">
-
 
 ## Create a Budget
 
