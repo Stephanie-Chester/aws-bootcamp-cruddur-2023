@@ -1,9 +1,25 @@
 # Week 0 — Billing and Architecture
 
+# Homework/Tasks
+
+## Create a Billing Alarm
+
+I created a billing alarm with CloudWatch, I set the threshold to alert me the estimated spend is more than $30 dollars. I did for a 6 hour period, I tried to do 1 day but I received an error that it wouldn't trigger so I have to troubleshoot that.
+
+
+<img width="1284" alt="Screenshot 2023-02-16 at 2 01 40 PM" src="https://user-images.githubusercontent.com/37819313/219462342-e1e6e550-241a-478a-ac16-ec12aae8ffc5.png">
+
+
+
+## Generate AWS Credentials
+
+I setup AWS Organizations so I could have separate OU for this bootcamp, and also created a user account for the bootcamp
+
+
+
+
 ## Create a Budget
 
 I have setup my budget for my AWS user account I have designated that I will be using for the bootcamp. For now I have setup $30 as my intial budget, not quite sure how much setting up everything at the end will cost but will adjust as needed.
 
-
-
-
+<img width="1182" alt="Screenshot 2023-02-16 at 12 59 29 PM" src="https://user-images.githubusercontent.com/37819313/219449717-e86bc709-970d-4d06-9827-57f2bb9bfade.png">
