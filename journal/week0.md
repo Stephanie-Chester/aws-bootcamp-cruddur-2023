@@ -10,6 +10,7 @@ I setup the following:
 ### 4. Setup MFA for the root user
 ### 5. Created admin user
 ### 6. Tried out AWS CloudShell
+### 7. Installed AWS Cli in Gitpod and set environmental variables
 
 ## Create a Billing Alarm
 
