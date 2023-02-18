@@ -12,6 +12,12 @@ I setup the following:
 ### 6. Tried out AWS CloudShell
 ### 7. Installed AWS Cli in Gitpod and set environmental variables
 
+## GitPod AWS CLI
+
+I intially had some problems with GitPod recognizing my user id after restarting the workspace. And then I realized that I had to stop, and delete the workspace and relaunch it from the GitPod button from within my GitHub repo.
+
+https://github.com/Stephanie-Chester/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/week0/Inked2023-02-18%2010_39_17-Welcome%20-%20aws-bootcamp-cruddur-2023%20%5BSSH_%20stephaniech-awsbootcamp-6rky64ck8rv.ss.jpg
+
 ## Create a Billing Alarm
 
 I created a billing alarm with CloudWatch, I set the threshold to alert me the estimated spend is more than $30 dollars. I did for a 6 hour period, I tried to do 1 day but I received an error that it wouldn't trigger so I have to troubleshoot that.
