@@ -43,3 +43,7 @@ I also created an IAM user under this organization so I wouldn't be using the ro
 I have setup my budget for my AWS user account I have designated that I will be using for the bootcamp. For now I have setup $30 as my intial budget, not quite sure how much setting up everything at the end will cost but will adjust as needed.
 
 <img width="1190" alt="Screenshot 2023-02-16 at 3 51 14 PM" src="https://user-images.githubusercontent.com/37819313/219484052-355f5199-e281-40ef-a462-daf02c1b2c7d.png">
+
+## Napkin design
+
+![20230217_160530](https://user-images.githubusercontent.com/37819313/219819089-9e60d85d-47ad-4964-9258-97cddb85a770.jpg)
