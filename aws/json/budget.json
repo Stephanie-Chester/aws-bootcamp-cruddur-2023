@@ -1,0 +1,36 @@
+{
+    "Budget": {
+        "BudgetName": "My Monthly Cost Budget-CloudProjectBootCamp",
+        "BudgetLimit": {
+            "Amount": "30.0",
+            "Unit": "USD"
+        },
+        "CostFilters": {},
+        "CostTypes": {
+            "IncludeTax": true,
+            "IncludeSubscription": true,
+            "UseBlended": false,
+            "IncludeRefund": false,
+            "IncludeCredit": false,
+            "IncludeUpfront": true,
+            "IncludeRecurring": true,
+            "IncludeOtherSubscription": true,
+            "IncludeSupport": true,
+            "IncludeDiscount": true,
+            "UseAmortized": false
+        },
+        "TimeUnit": "MONTHLY",
+        "TimePeriod": {
+            "Start": "2023-02-01T00:00:00+00:00",
+            "End": "2087-06-15T00:00:00+00:00"
+        },
+        "CalculatedSpend": {
+            "ActualSpend": {
+                "Amount": "0.0",
+                "Unit": "USD"
+            }
+        },
+        "BudgetType": "COST",
+        "LastUpdatedTime": "2023-02-20T09:51:14.081000+00:00"
+    }
+}
