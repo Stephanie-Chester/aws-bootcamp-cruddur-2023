@@ -12,12 +12,12 @@ tasks:
   - name: backend
     init: |
       cd /workspace/aws-bootcamp-cruddur-2023/backend-flask
-      echo npm install
+      npm install
 
   - name: frontend
     init: |
       cd /workspace/aws-bootcamp-cruddur-2023/frontend-react-js
-      echo npm install
+      npm install
       
 vscode:
   extensions:
