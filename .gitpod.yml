@@ -8,6 +8,16 @@ tasks:
       unzip awscliv2.zip
       sudo ./aws/install
       cd $THEIA_WORKSPACE_ROOT
+  
+  - name: backend
+    init: |
+      cd /workspace/aws-bootcamp-cruddur-2023/backend-flask
+      echo npm install
+
+  - name: frontend
+    init: |
+      cd /workspace/aws-bootcamp-cruddur-2023/frontend-react-js
+      echo npm install
       
 vscode:
   extensions:
