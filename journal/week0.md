@@ -53,3 +53,11 @@ I have setup my budget for my AWS user account I have designated that I will be 
 ## Napkin design
 
 ![20230217_160530](https://user-images.githubusercontent.com/37819313/219819089-9e60d85d-47ad-4964-9258-97cddb85a770.jpg)
+
+## Cruddr Logical Diagram
+
+<img width="527" alt="2023-02-22 15_33_46-Cruddr Logical Diagram_ Lucidchart" src="https://user-images.githubusercontent.com/37819313/220752672-786c9195-e24d-43af-909c-149b6e338d57.png">
+
+https://lucid.app/lucidchart/a55b4e8b-96be-4354-a861-d22dfd0ee490/view?page=0_0&invitationId=inv_ece7e2d1-185c-481f-b1ba-045aedbc897f#
+
+
