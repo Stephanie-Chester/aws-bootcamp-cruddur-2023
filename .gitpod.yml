@@ -26,3 +26,4 @@ vscode:
     - 42Crunch.vscode-openapi
     - ms-azuretools.vscode-docker
     - formulahendry.docker-explorer
+    - ms-python.python
