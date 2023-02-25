@@ -27,7 +27,10 @@
 
 Followed the steps Andrew had in the Postgres and DynanoDB video to create a test DynamoDB table and items, I got the sample data from 100 Days of Cloud - DynamoDB Local Challenge Github Repo  I did not commit the repo as it was just a test.
 
-<img width="491" alt="2023-02-25 12_52_03-docker-compose yml - aws-bootcamp-cruddur-2023 - Gitpod Code" src="https://user-images.githubusercontent.com/37819313/221372051-341648c4-37ee-4644-8e63-c17a58011685.png>
-                                                                                                                                                                      ## Homework Stretch Assignments 
+<img width="491" alt="2023-02-25 12_52_03-docker-compose yml - aws-bootcamp-cruddur-2023 - Gitpod Code" src="https://user-images.githubusercontent.com/37819313/221372131-51e4657a-63e8-4c32-8e1f-69b0037c2c7d.png">
+
+## Homework Stretch Assignment  
+
+I have not had a chance to get to the homework stretch assignments yet but will do so in the next few days
 
 ## Misc Notes. 
