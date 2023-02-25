@@ -26,3 +26,4 @@ vscode:
     - ms-azuretools.vscode-docker
     - ms-python.python
     - cweijan.vscode-postgresql-client2@3.7.0
+    - Yseop.vscode-yseopml
