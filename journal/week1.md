@@ -29,6 +29,8 @@ Followed the steps Andrew had in the Postgres and DynanoDB video to create a tes
 
 <img width="491" alt="2023-02-25 12_52_03-docker-compose yml - aws-bootcamp-cruddur-2023 - Gitpod Code" src="https://user-images.githubusercontent.com/37819313/221372131-51e4657a-63e8-4c32-8e1f-69b0037c2c7d.png">
 
+<img width="589" alt="2023-02-25 12_55_55-docker-compose yml - aws-bootcamp-cruddur-2023 - Gitpod Code" src="https://user-images.githubusercontent.com/37819313/221372317-b17ab0b6-8326-45d0-8c6b-e1e319300326.png">
+
 ## Homework Stretch Assignment  
 
 I have not had a chance to get to the homework stretch assignments yet but will do so in the next few days
